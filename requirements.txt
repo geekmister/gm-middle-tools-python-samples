@@ -1,0 +1,2 @@
+# Python imaging library: https://pypi.org/project/Pillow/
+pillow==10.1.0
